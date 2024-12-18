@@ -23,7 +23,7 @@ Copyright ©️ [Delta Botz ](https://telegram.me/King_Nomis)
 ## About Owner 
 
 <b><details><summary>Tap On Me For See Details Of Owner</summary>
-- Telegram Channel : [VJ Botz](https://telegram.me/ItsNomis)
-- Contact Link : [King VJ](https://telegram.me/King_Nomis)
+- Telegram Channel : [Delta Botz](https://telegram.me/ItsNomis)
+- Contact Link : [King Nomis](https://telegram.me/King_Nomis)
 </b>
 </details>
