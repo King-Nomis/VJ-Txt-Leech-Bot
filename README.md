@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="[https://graph.org/file/d57d6f83abb6b8d0efb02.jpg](https://graph.org/file/31d95e187c003ef6032b2-4828e1b612ea9aa1a2.jpg)" alt="VJ-TXT-LEECH-BOT Logo">
+  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="Delta-TxT-Bot Logo">
 </p>
 <h1 align="center">
-  VJ TXT LEECH BOT
+  Delta TxT Bot
 </h1>
 
 ## Deploy Tutorial - [Video Link](https://youtu.be/l1u3C_F79QE)
