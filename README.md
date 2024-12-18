@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/d57d6f83abb6b8d0efb02.jpg" alt="Delta-TxT-Bot Logo">
+  <img src="https://graph.org/file/31d95e187c003ef6032b2-4828e1b612ea9aa1a2.jpg" alt="Delta-TxT-Bot Logo">
 </p>
 <h1 align="center">
   Delta TxT Bot
